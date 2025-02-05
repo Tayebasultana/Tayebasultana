@@ -66,7 +66,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
   <!-- Facebook -->
   <a href="https://www.facebook.com/tayeba.sultana.578546" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo" />
@@ -74,7 +74,7 @@
 
   <!-- Email -->
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://i.ibb.co.com/602DNhtN/11539826.png" height="80" alt="email logo" />
+    <img src="https://i.ibb.co/602DNhtN/11539826.png" height="80" alt="email logo" />
   </a>
 
   <!-- Twitter -->
@@ -82,6 +82,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo" />
   </a>
 </div>
-
 
 ###
