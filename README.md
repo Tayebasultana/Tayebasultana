@@ -2,6 +2,10 @@
 
 ###
 
+<h2 align="left">Junior Web Developer | Passionate about coding</h2>
+
+###
+
 <p align="left">I'm a Junior Web Developer with a strong passion for creating dynamic and responsive websites. I have a solid foundation in front-end and back-end technologies and I am always eager to learn and grow in the field of web development.I’m excited about growing as a developer and tackling new challenges with every project! 🚀</p>
 
 ###
