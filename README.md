@@ -67,7 +67,21 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/yourprofile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="40" alt="email logo" />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo" />
+  </a>
 </div>
+
 
 ###
