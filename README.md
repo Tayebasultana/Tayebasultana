@@ -30,30 +30,7 @@
 
 ###
 
-<h3 align="left">Frontend:</h3>
-<ul align="left">
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>React.js</li>
-</ul>
-
-<h3 align="left">Backend:</h3>
-<ul align="left">
-  <li>Node.js</li>
-  <li>Express.js</li>
-</ul>
-
-<h3 align="left">Databases:</h3>
-<ul align="left">
-  <li>MongoDB</li>
-</ul>
-
-<h3 align="left">Version Control:</h3>
-<ul align="left">
-  <li>Git</li>
-  <li>GitHub</li>
-</ul>
+<p align="left">Frontend: HTML, CSS, JavaScript, React.js<br>Backend: Node.js, Express.js<br>Databases: MongoDB<br>Version Control: Git, GitHub<br><br>I am constantly improving my skills and learning new technologies to stay updated in the ever-evolving web development world.</p>
 
 <p align="left">I am constantly improving my skills and learning new technologies to stay updated in the ever-evolving web development world.</p>
 
