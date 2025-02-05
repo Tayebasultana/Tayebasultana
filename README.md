@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left"><i class="fas fa-user"></i> About Me:</h2>
 
 ###
 
