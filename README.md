@@ -32,8 +32,6 @@
 
 <p align="left">Frontend: HTML, CSS, JavaScript, React.js<br>Backend: Node.js, Express.js<br>Databases: MongoDB<br>Version Control: Git, GitHub<br><br>I am constantly improving my skills and learning new technologies to stay updated in the ever-evolving web development world.</p>
 
-<p align="left">I am constantly improving my skills and learning new technologies to stay updated in the ever-evolving web development world.</p>
-
 ###
 
 <h2 align="left">About Me</h2>
