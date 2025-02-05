@@ -79,10 +79,10 @@
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/tayeba-sultana/" target="_blank">
+  <a href="https://www.linkedin.com/in/tayeba-sultana-sultana-b6760934b/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
-  <a>
+  <a href="https://www.facebook.com/tayeba.sultana.578546" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
   </a>
   
