@@ -78,15 +78,11 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/Tayebasultana" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/tayeba-sultana/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo" />
-  </a>
+  
 </div>
 
 ###
