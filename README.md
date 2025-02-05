@@ -74,7 +74,7 @@
 
   <!-- Email -->
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://i.ibb.co.com/602DNhtN/11539826.png" height="40" alt="email logo" />
+    <img src="https://i.ibb.co.com/602DNhtN/11539826.png" height="80" alt="email logo" />
   </a>
 
   <!-- Twitter -->
