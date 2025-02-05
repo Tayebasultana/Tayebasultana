@@ -52,7 +52,7 @@
 <ul align="left">
   <li>Exploring <strong>Next.js</strong> for full-stack web development.</li>
   <li>Building a <strong>tourism website</strong> using React and Node.js.</li>
-  <li>Contributing to open-source projects on <a href="https://github.com/Tayebasultana" target="_blank">GitHub</a>.</li>
+  <li>Contributing to open-source projects on GitHub.</li>
 </ul>
 
 ###
