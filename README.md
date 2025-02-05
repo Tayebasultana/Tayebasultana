@@ -66,7 +66,7 @@
 
 ###
 
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
+<div align="center">
   <!-- Facebook -->
   <a href="https://www.facebook.com/tayeba.sultana.578546" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo" />
