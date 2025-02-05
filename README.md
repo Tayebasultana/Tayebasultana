@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="497" src="https://i.ibb.co.com/My6bJPKz/Screenshot-2024-09-30-064856.png"  />
+</div>
+
+###
+
 <h1 align="left">👋 Hey there! I'm Tayeba Sultana</h1>
 
 ###
