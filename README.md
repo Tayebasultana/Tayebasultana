@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="497" src="https://i.ibb.co.com/My6bJPKz/Screenshot-2024-09-30-064856.png"  />
+  <img height="497" src="https://i.ibb.co.com/bjjFprHH/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-2.png"  />
 </div>
 
 ###
