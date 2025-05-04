@@ -1,9 +1,6 @@
-
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/Z1xDf2Vv/Screenshot-2025-05-04-155237.png"  />
+  <img height="200" src="https://i.ibb.co.com/Z1xDf2Vv/Screenshot-2025-05-04-155237.png" />
 </div>
-
-###
 
 ###
 
@@ -11,11 +8,11 @@
 
 ###
 
-<h2 align="left">Junior Web Developer | Passionate about Coding</h2>
+<h2 align="left">Full-Stack Developer | MERN Stack Enthusiast</h2>
 
 ###
 
-<p align="left">I'm a Junior Web Developer with a strong passion for creating dynamic and responsive websites. I have a solid foundation in front-end and back-end technologies, and I am always eager to learn and grow in the field of web development. I’m excited about growing as a developer and tackling new challenges with every project! 🚀</p>
+<p align="left">I’m a passionate Full-Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React, Node.js). I love building scalable, dynamic web applications that provide real-world solutions. Always eager to learn, grow, and take on exciting challenges in the web development world! 🚀</p>
 
 ###
 
@@ -34,34 +31,36 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div>
 
 ###
 
-<p align="left">Frontend: HTML, CSS, JavaScript, React.js<br>Backend: Node.js, Express.js<br>Databases: MongoDB<br>Version Control: Git, GitHub<br><br>I am constantly improving my skills and learning new technologies to stay updated in the ever-evolving web development world.</p>
+<p align="left">Frontend: HTML, CSS, JavaScript, React.js<br>Backend: Node.js, Express.js<br>Database: MongoDB<br>Tools: Git, GitHub, Firebase, Postman<br>Version Control: Git, GitHub</p>
 
 ###
 
-<h2 align="left">About Me:</h2>
+<h2 align="left">💡 About Me:</h2>
 
 ###
 
-<p align="left">✨ **Creating bugs since**: I started coding! But hey, every bug is an opportunity to learn and improve. 😊<br>
-📚 **I'm currently learning**: More advanced React, Next.js, and deepening my understanding of Node.js, Express, and MongoDB.<br>
-🎯 **Goals**: Build real-world projects, contribute to open-source, and keep growing as a full-stack developer. My long-term goal is to work on large-scale, impactful web applications.<br>
-🎲 **Fun fact**: When I’m not coding, you’ll find me experimenting with new recipes 🍕.</p>
+<p align="left">✨ <strong>Bug creator turned bug fixer</strong> — I started coding, made a lot of bugs, and now I love solving them!<br>
+📚 <strong>Currently learning</strong>: Advanced React, Next.js, RESTful APIs, and database optimization.<br>
+🎯 <strong>Goals</strong>: Build real-world applications, contribute to open-source, and develop as a professional MERN Stack developer.<br>
+🎲 <strong>Fun fact</strong>: Besides coding, I enjoy trying new recipes 🍰 and exploring tech communities.</p>
 
 ###
 
-<h2 align="left">Current Activities:</h2>
+<h2 align="left">🚀 Current Activities:</h2>
 
 ###
 
 <ul align="left">
-  <li>Exploring <strong>Next.js</strong> for full-stack web development.</li>
-  <li>Building a <strong>tourism website</strong> using React and Node.js.</li>
-  <li>Contributing to open-source projects on GitHub.</li>
+  <li>Exploring <strong>Next.js</strong> and advanced MERN stack patterns.</li>
+  <li>Developing a <strong>tourism website</strong> with React and Node.js.</li>
+  <li>Contributing to open-source and improving Git workflow.</li>
 </ul>
 
 ###
@@ -87,14 +86,12 @@
 ###
 
 <div align="center">
-  
   <a href="https://www.linkedin.com/in/tayeba-sultana-sultana-b6760934b/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
   <a href="https://www.facebook.com/tayeba.sultana.578546" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo" />
   </a>
-  
 </div>
 
 ###
@@ -104,8 +101,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tayebasultana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Tayebasultana&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tayebasultana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=Tayebasultana&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
-
-###
