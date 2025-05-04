@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/bjjFprHH/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-2.png"  />
+  <img height="200" src="https://i.ibb.co.com/Rp6vPkLK/Screenshot-2025-05-04-152631.png"  />
 </div>
 
 ###
