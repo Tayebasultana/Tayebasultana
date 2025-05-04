@@ -58,8 +58,8 @@
 ###
 
 <ul align="left">
-  <li>Exploring <strong>Next.js</strong> and advanced MERN stack patterns.</li>
-  <li>Developing a <strong>tourism website</strong> with React and Node.js.</li>
+  <li>Unlocking the power of  <strong>TypeScript</strong> and exploring next-level MERN stack patterns.</li>
+  <li>Developing a <strong>Aggriculture e-commerce website</strong> with React ,Node.js and redux</li>
   <li>Contributing to open-source and improving Git workflow.</li>
 </ul>
 
